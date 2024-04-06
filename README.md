@@ -18,6 +18,8 @@ Just as some people might use X (formerly Twitter) excessively, I hope this can 
 -------
 
 << 日本語 >>
+
+
 本スクリプトは Google Apps Script で動作します。
 
 前日に自分がSlack でどのくらいメッセージをポストしたかを集計して、Slack に通知します。
